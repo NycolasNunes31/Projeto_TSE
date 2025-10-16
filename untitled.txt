@@ -1,0 +1,8 @@
+#Gravar os dados no Banco de Dados local
+
+import sqlite3
+
+# Criação e inserção
+conn = sqlite3.connect('tse_mt.db')
+df.to_sql('resultados', conn, if_exists='replace', index=False)
+conn.close()

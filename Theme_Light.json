@@ -1,0 +1,15 @@
+{
+  "name": "Tema_Politico_Light",
+  "dataColors": [
+    "#2B6CB0",
+    "#718096",
+    "#A0AEC0",
+    "#63B3ED",
+    "#4FD1C5",
+    "#F6AD55",
+    "#F56565"
+  ],
+  "background": "#FFFFFF",
+  "foreground": "#1F2937",
+  "tableAccent": "#2B6CB0"
+}
